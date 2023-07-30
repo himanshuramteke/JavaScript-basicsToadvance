@@ -1,2 +1,2 @@
 # JavaScript-basicsToadvance
-Learning JavaScript from basics to advance from Hitesh Choudhary Sir. 
+Learned JavaScript from basics to advance from Hitesh Choudhary Sir. 
